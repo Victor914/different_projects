@@ -1,0 +1,9 @@
+0 &
+1 subtraction
+2 addition
+3 multiplication
+4 division
+5 minus
+6 raising_power
+7 left
+8 right

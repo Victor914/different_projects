@@ -1,0 +1,15 @@
+(asd + 34)/6 - 3 + 3.1213										valid
+-(-3)-(-3)-(-3)-(-3)											valid
+(((((((((123+1)))))))))											valid
+(-(+(-(-(etr + (-123.232))))))									valid
+-(4+3*2)-(+1.0 + 5.44332)/0.3*6^2								valid -783.198
+a+b+c+d*q*w*e-t/r+u*i*o*p/h/j+k+l/n/m							valid
+a+b*c/(d-e)+1.62												valid
+a+b/c+d/e														valid
+b + c^0 / a^0 - 1												valid
+(a + b)/(a^ - b^2) + (b - a)/(a - b)^2 * (a - b)/(a^2 - b^2)	valid
+a+b+(c+(d+e))*(f-g))											invalid bracket
+a*b)^c/(c*0)													invalid bracket
+1.02.3 * 0^a+(-b)												invalid point
+0.4																valid
+.3																invalid first point
